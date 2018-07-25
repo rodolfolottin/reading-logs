@@ -6,7 +6,3 @@ Notes to myself:
 
 * This is a draft, don't worry about it,
 * Do not forget to upload the pdf file with the highligts when finishing the paper,
-
-### Commits pattern:
-
-<book-or-paper-name>: <message>
