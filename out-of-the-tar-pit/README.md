@@ -21,3 +21,5 @@
 * The main problem in OOP relies on state.
 * By avoiding you to deal with state FP avoids some problems that can happen within it and informal reasoning becomes much more effective.
 * Concurrency becomes more easier to deal with in FP.
+* The authors disagree on Brooks statement that software complexity is inheritable. We can guarantee in some ways decreasing a software complexity. They try to classify two types of it: acidental and essential.
+* Acidental is something non essential which is present (performance issues) and essential is the problem itself.
