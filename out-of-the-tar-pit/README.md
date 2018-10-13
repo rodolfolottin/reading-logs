@@ -1,5 +1,7 @@
 ### out-of-the-tar-pit
 
+### Annotations
+
 * Simplicity is the way,
 * Often software complexity is confused with computer (algorithmic) complexity. You can have a simple software (with a low level of complexity) but in the other term it can have a higher level of complexity,
 * The major contributor of software complexity is the handling of state and flow of control (which can be the same),
@@ -23,3 +25,7 @@
 * Concurrency becomes more easier to deal with in FP.
 * The authors disagree on Brooks statement that software complexity is inheritable. We can guarantee in some ways decreasing a software complexity. They try to classify two types of it: acidental and essential.
 * Acidental is something non essential which is present (performance issues) and essential is the problem itself.
+
+#### Thoughts
+
+The article is very extensive and sometimes it is quite repetitive, and as I kept reading it I start to get bored, specially after the language paradigms comparison. The last sections about its ideal code framework idea (Functional Relational Programming) it is very interesting and introduces a whole way on how to deal with a real system and its architeture. For me, the paper best part is the beginning, specially the part about comparing simplicity and complexity.
