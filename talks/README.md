@@ -14,3 +14,8 @@ Big-O is about caracterizing the time that it takes when data grows. Most of the
 ### [David Beazley | Keynote: Built in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s&t=0s&index=4&list=WL)
 
 Interesting talk but specific for new comers. He talked a lot about working with datasets using slicing, strip, defaultdict, Counter.
+
+
+### ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
+
+One of the best talks I've ever seen. He talks about how much applications and programs are needless complicated, about how much we do not necessarily care about our programs quality. The 7 deadly sins are a great way when talking about software quality.
